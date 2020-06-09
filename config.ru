@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>IEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE</h1>
+            <h1>Hello World by Ruby-Ex</h1>
           </hgroup>
 
 
